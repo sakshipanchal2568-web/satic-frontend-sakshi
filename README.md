@@ -1,1 +1,40 @@
-# satic-frontend-sakshi
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sakshi Panchal</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <h1>Sakshi Panchal</h1>
+  <h2>Frontend Intern</h2>
+
+  <h3>My Frontend Journey</h3>
+  <ul>
+    <li>Day 1: Setup & Deployment (Completed)</li>
+    <li>Day 2: Button Component System (Completed)</li>
+  </ul>
+
+  <h2>Button Component System</h2>
+
+  <h3>Primary Buttons</h3>
+  <button class="btn btn-primary">Default</button>
+  <button class="btn btn-primary">Hover</button>
+  <button class="btn btn-primary">Active</button>
+  <button class="btn btn-primary" disabled>Disabled</button>
+
+  <h3>Secondary Buttons</h3>
+  <button class="btn btn-outline">Default</button>
+  <button class="btn btn-outline">Hover</button>
+  <button class="btn btn-outline">Active</button>  
+  <button class="btn btn-outline" disabled>Disabled</button>
+
+  <footer>
+    <p>© 2026 Dhara Dasadiya</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+
+</body>
+</html>
